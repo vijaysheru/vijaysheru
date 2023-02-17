@@ -74,4 +74,5 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [From Gears to Code: A Mechanical Engineer&#39;s Journey into the World of Software Development](https://dev.to/vijaysheru/from-gears-to-code-a-mechanical-engineers-journey-into-the-world-of-software-development-5bla)
 <!-- BLOG-POST-LIST:END -->
