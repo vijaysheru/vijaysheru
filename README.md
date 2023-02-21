@@ -74,7 +74,5 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying AWS IAM: The Ultimate Guide to Identity and Access Management - 1](https://vijaysheru.com/demystifying-aws-iam-the-ultimate-guide-to-identity-and-access-management-1)
 - [From Gears to Code: A Mechanical Engineer&#39;s Journey into the World of Software Development](https://dev.to/vijaysheru/from-gears-to-code-a-mechanical-engineers-journey-into-the-world-of-software-development-5bla)
-- [A Debugging Journey as Java Developer](https://vijaysheru.com/a-debugging-journey-as-java-developer)
 <!-- BLOG-POST-LIST:END -->
