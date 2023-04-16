@@ -74,9 +74,9 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the AI Job Market: 5 Must-Have Skill Sets for the Future](https://vijaysheru.com/mastering-the-ai-job-market-5-must-have-skill-sets-for-the-future)
 - [PyCharm vs Jupyter Notebook: Which One is Right for You?](https://vijaysheru.com/pycharm-vs-jupyter-notebook-which-one-is-right-for-you)
 - [Unlocking the Creative Potential of Generative AI: Applications and Future Directions](https://vijaysheru.com/unlocking-the-creative-potential-of-generative-ai-applications-and-future-directions)
 - [Code Like a Pro: 5 Insider Tips for Developers to Boost Their Coding Game](https://vijaysheru.com/code-like-a-pro-5-insider-tips-for-developers-to-boost-their-coding-game)
 - [Demystifying AWS IAM: The Ultimate Guide to Identity and Access Management - 1](https://vijaysheru.com/demystifying-aws-iam-the-ultimate-guide-to-identity-and-access-management-1)
-- [From Gears to Code: A Mechanical Engineer&#39;s Journey into the World of Software Development](https://dev.to/vijaysheru/from-gears-to-code-a-mechanical-engineers-journey-into-the-world-of-software-development-5bla)
 <!-- BLOG-POST-LIST:END -->
