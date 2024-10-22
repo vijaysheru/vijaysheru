@@ -74,5 +74,9 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Gears to Code: A Mechanical Engineer&#39;s Journey into the World of Software Development](https://dev.to/vijaysheru/from-gears-to-code-a-mechanical-engineers-journey-into-the-world-of-software-development-5bla)
+- [Hashnode BootCamp: Insights on Leveraging Technical Writing: A Three-Day Bootcamp Summary](https://vijaysheru.com/hashnode-bootcamp-insights-on-leveraging-technical-writing-a-three-day-bootcamp-summary)
+- [Creating a MasterTable from a CSV file using PL/SQL: A Step-by-Step Guide](https://vijaysheru.com/creating-a-mastertable-from-a-csv-file-using-plsql-a-step-by-step-guide)
+- [From Brain-Inspired to Game-Changing: The Amazing Journey of Neural Networks](https://vijaysheru.com/from-brain-inspired-to-game-changing-the-amazing-journey-of-neural-networks)
+- [The Importance of Well-Written Documentation in REST APIs](https://vijaysheru.com/the-importance-of-well-written-documentation-in-rest-apis)
+- [APIs: The Digital Glue that Holds Software Applications Together](https://vijaysheru.com/apis-the-digital-glue-that-holds-software-applications-together)
 <!-- BLOG-POST-LIST:END -->
