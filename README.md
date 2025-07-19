@@ -74,5 +74,6 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How I’m Solving the Dark Side of Vibe Coding — Building DevPilot Core as a Solo Engineer](https://dev.to/vijaysheru/how-im-solving-the-dark-side-of-vibe-coding-building-devpilot-core-as-a-solo-engineer-56l8)
 - [From Gears to Code: A Mechanical Engineer&#39;s Journey into the World of Software Development](https://dev.to/vijaysheru/from-gears-to-code-a-mechanical-engineers-journey-into-the-world-of-software-development-5bla)
 <!-- BLOG-POST-LIST:END -->
